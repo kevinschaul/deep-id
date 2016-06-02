@@ -28,7 +28,7 @@ Here’s a janky diagram of how IDs work and available paths between them:
      | /
     5.0
 
-See [tests/tests.js](tests/tests.js) for detailed intended behavior.
+See [test/tests.js](test/tests.js) for detailed intended behavior.
 
 # Usage
 
