@@ -1,0 +1,14 @@
+{
+  "name": "deep-id",
+  "version": "0.0.0",
+  "description": "Ordered multi-level ID system, inspired by React",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kevin Schaul",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
