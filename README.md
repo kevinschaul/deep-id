@@ -32,8 +32,8 @@ See [test/test.js](test/test.js) for detailed intended behavior.
 
 # Usage
 
-var deepID = require('deep-id');
+    var deepID = require('deep-id');
 
-var id = deepID.createId(0, 0);
-deepID.getNextID(1);
+    var id = deepID.createId(0, 0);
+    deepID.getNextID(1);
 
